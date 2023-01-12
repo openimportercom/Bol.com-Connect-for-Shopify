@@ -13,4 +13,4 @@ Once the onboarding process is completed, start synchronizing your Bol.com order
 Also make sure to assign the the exact same EAN or SKU id's to your products in your Shopify store as you have in Bol.com or the products won't be recognized.
 
 ##  Support
-If you have any question's please visit [openimporter.com](https://openimporter.com/support) to contact the support team.
+If you have any question's please visit [openimporter.com](https://openimporter.com/support) or email support@openimporter.com to contact the support team.
